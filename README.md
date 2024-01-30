@@ -4,3 +4,5 @@
 - functions/index.js 파일 확인하기
 - sendImgToAWS: 파이어베이스 스토리지에 aws 서버(fastapi)로 사진 전송하는 함수
 - receiveImgFromAWS: aws서버에서 json 받는 함수
+- 환경변수는 구글드라이브에서 확인하기
+- 배포하기: `firebase deploy --only functions`
